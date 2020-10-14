@@ -1,7 +1,7 @@
 # script-deface
 Script-deface maker untuk anda
 
-#Instalasi
+# Instalasi
 <pre><code>
 apt update && apt upgrade
 pkg install python2 git
